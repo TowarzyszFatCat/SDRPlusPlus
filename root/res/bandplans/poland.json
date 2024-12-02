@@ -1,1 +1,15 @@
-
+{
+    "name": "Poland",
+    "country_name": "Poland",
+    "country_code": "PL",
+    "author_name": "TowarzyszFatCat",
+    "author_url": "https://github.com/TowarzyszFatCat",
+    "bands": [
+        {
+            "name": "Long Wave",
+            "type": "broadcast",
+            "start": 148500,
+            "end": 283500
+        },
+    ]
+}
